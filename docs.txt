@@ -1,1 +1,2 @@
 Contenido del archivo
+Realizando un cambio, para resolver conflictos.
